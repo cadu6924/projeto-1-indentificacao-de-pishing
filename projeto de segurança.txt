@@ -1,0 +1,25 @@
+1 - Como se proteger de um phishing : Verifique os e-mail, não se apresse em responder ou seguir suas instruções
+. a primeira coisa que você deve fazer é procurar sinais reveladores de phishing
+
+2 - Mantenha seus olho abertos em aplicativos de mensagens ou em redes sociais : O e-mail não é a única coisa com que você precisa ter cuidado. As mensagens que recebe em aplicativos
+ de mensagens e em redes sociais têm o mesmo potencial de perigo
+
+3 - Usar senhas diferente em seus aplicativos e contas, trocar senha 72 dias 
+
+4 - Configure autenticação de dois fatores para proteger suas conta 
+
+5 - Detectar erros de ortografia
+
+6 - A indentificação de login so entrega a localização da cidade onde aconteceu o login, assim como aconteceu no pdf
+a localização da escola não seria exposta
+
+7 - assim que você faz login em uma conta você tem total acesso das configurações assim não precisara esperar por alguns dias
+para acessar determinada comfigurações
+
+8 - Presta atenção no URL do link, não entrar em algum link ou site desconhecido
+
+9 - quando aparecer um novo login que não foi você, verifique se foi pelo email ou pelo seus aplicativo do intagram 
+na maioria das vezes se aparecer o login pelo seu email e não pelo seu aplicativo podera se um Phishing
+
+10 - Se não foi você que fez login você podera resgatar sua conta pelo seu numero de telefone vinculado, e assim podera tirar o acceso da outra pessoa 
+e assim trocar sua senha
